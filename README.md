@@ -1,2 +1,2 @@
 # Hackathon-MatVerse-
-Team Adhwaidh
+Coding Puzzles
